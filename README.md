@@ -1,2 +1,2 @@
 # nest-services
-microservices with nestjs
+microservices using rabbitmq
